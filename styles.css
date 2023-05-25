@@ -1,0 +1,84 @@
+/* CSS styles go here */
+/* Example styles, modify or add your own styles as needed */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #050A0E;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .box {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #f5f5f5;
+    text-decoration: none;
+    color: #050A0E;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+  
+  .box:hover {
+    transform: scale(1.05);
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .cover {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: opacity 0.3s;
+  }
+  
+  .photography {
+    background-image: url("photography_cover.jpg");
+  }
+  
+  .video {
+    background-image: url("video_cover.jpg");
+  }
+  
+  .design {
+    background-image: url("design_cover.jpg");
+  }
+  
+  .motion {
+    background-image: url("motion_cover.jpg");
+  }
+  
+  .coding {
+    background-image: url("coding_cover.jpg");
+  }
+  
+  .game {
+    background-image: url("game_cover.jpg");
+  }
+  
+  footer {
+    background: #050A0E;
+    color: #fff;
+    padding: 20px;
+  }
