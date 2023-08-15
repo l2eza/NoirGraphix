@@ -1,6 +1,6 @@
 
 <a href="https://l2eza.github.io/NoirGraphix/">
-<img src="https://github.com/l2eza/NoirGraphix/blob/master/Header.png">
+<img src="https://github.com/l2eza/NoirGraphix/blob/master/Banner%20W.jpeg?raw=true">
 </a>
 
 ### NoirGraphix: Where Creativity Meets Digital Innovation
